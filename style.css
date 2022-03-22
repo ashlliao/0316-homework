@@ -1,0 +1,42 @@
+@charset "UTF-8";
+.container {
+	width: 1000px;
+}
+.container header {
+	color: #C68A48;
+	text-align: center;
+	font-size: 25px;
+}
+main article h3 {
+	background-color: #EFCFAB;
+	border-radius: 10px;
+	height: 35px;
+	padding-left: 12px;
+	line-height: 35px;
+}
+footer p a:link {
+	color: #E09C65;
+}
+main article a:link {
+	color: #E09C65;
+}
+footer p a:visited {
+	color: #E3BA9C;
+}
+main article a:visited {
+	color: #E3BA9C;
+}
+main article a:hover {
+	color: #E09C65;
+	font-size: large;
+}
+footer p a:hover {
+	color: #E09C65;
+	font-size: large;
+}
+main footer h4 {
+	background-color: #EFCFAB;
+	border-radius: 10px;
+	height: 30px;
+	line-height: 30px;
+}
